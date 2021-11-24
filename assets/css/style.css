@@ -1049,10 +1049,11 @@ html,body{
 --------------------------------------*/
 .special-offer{
     position: relative;
-    background: url(../../assets/images/offer/offer-banner.jpg)no-repeat center;
+    background: url(../../assets/images/offer/monaco.jpg)no-repeat center;
     background-size: cover;
     z-index: 1;
 }
+
 .special-offer:after{
     position: absolute;
     content: "";
